@@ -1,0 +1,26 @@
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul.ingredients-list li {
+  list-style: square inside;
+}
+
+
+ol.directions-list li {
+  list-style: azure;
+}
+
+ol.directions-list li {
+  list-style: aliceblue;
+}
+
+img {}
+
+header img {
+  width: 100px;
+}
